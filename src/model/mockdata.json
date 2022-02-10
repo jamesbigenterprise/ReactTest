@@ -1,0 +1,18 @@
+[
+    {
+        "groupid":"James01",
+        "groupName":"James",
+        "groupStreak":14,
+        "groupStartDate": "04/10/2021",
+        "grouplateststreakStart":"04/10/2021",
+        "streaks": [
+            {
+                "id":"James01Streak01",
+                "name":"Morning Exercise",
+                "startDate": "04/01/2021",
+                "lateststreakStart":"04/09/2021",
+                "streak":17
+            }
+        ]
+      }
+  ]
